@@ -1,4 +1,4 @@
-# [Install emacs24 with Ansible][https://github.com/thydel/ar-emacs24]
+# [Install emacs24 with Ansible](https://github.com/thydel/ar-emacs24)
 
 - Install emacs24-nox if emacs24 is not already installed
 - Use backport if needed
